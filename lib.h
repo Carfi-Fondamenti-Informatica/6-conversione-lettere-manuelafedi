@@ -1,4 +1,4 @@
-#ifndef ESERCIZIO_2_LIB_H
+#ifndef ESERCIZIO_2_LIB_H 
 #define ESERCIZIO_2_LIB_H
 
 int Verifica (char);

@@ -1,4 +1,4 @@
-#include "lib.h"
+#include "lib.h" 
 int Verifica (char c){
     bool risultato;
     if(c>=65 && c<=90){
